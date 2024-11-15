@@ -6,4 +6,4 @@ Projemiz, makaleleri özet ve anahtar kelimelere göre sınıflandırma yapabile
 
 GELİŞTİRME ORTAMI
 
-Kodlarımız için geliştirme ortamı olarak VS Code kullanılmış olup programlama dili olarak python'ı ele aldık ve kütüphaneler olarak da Selenium, pandas, openpyxl ve nltk kullanılmıştır.
+Kodlarımız için geliştirme ortamı olarak VS Code kullanılmış olup programlama dili olarak python'ı ele aldık ve kütüphaneler olarak da datetime, Selenium, pandas, requests, openpyxl ve nltk kullanılmıştır.
